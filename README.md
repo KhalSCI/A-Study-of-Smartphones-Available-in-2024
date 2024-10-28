@@ -51,6 +51,10 @@ To install the necessary dependencies, you can use:
 ```bash
 pip install -r requirements.txt
 ```
+or
+```bash
+pip install --upgrade -r requirements.txt
+```
 ## Usage
 1. **Clone the repository:**
 ```bash
